@@ -1,3 +1,6 @@
+e &&
+ou ||
+nao !
 // // operador de comparação 
 
 // // igualdade 
@@ -37,7 +40,16 @@
 
 // console.log(podeBeber)
 
+// ternario ? positivo se nao sera :
 let menino = 18
 
 const xequeMate = menino >= 18 ? console.log('vai trabalhar' )
 : console.log('pode jogar video game')
+
+
+
+// ternario E
+
+let menina =15
+
+const jogoTiger = menina >18 &&(console.log )
