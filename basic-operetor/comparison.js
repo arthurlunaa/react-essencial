@@ -27,12 +27,17 @@
 // if podeBeber( 21 )
 // // console.log(podeBeber)
 
-let idade = 18
+// let idade = 18
 
-let dinheiro = tr
-ue
-let carro = false
+// let dinheiro = tr
+// ue
+// let carro = false
 
-let podeBeber = (idade >=18 && dinheiro ) && (carro)
+// let podeBeber = (idade >=18 && dinheiro ) && (carro)
 
-console.log(podeBeber)
+// console.log(podeBeber)
+
+let menino = 18
+
+const xequeMate = menino >= 18 ? console.log('vai trabalhar' )
+: console.log('pode jogar video game')
