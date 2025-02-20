@@ -6,8 +6,8 @@ let soma = 2+2
 console.log(soma)
 
 // subtração
-console.log(diferenca)
 let diferenca = 10 - 3
+console.log(diferenca)
 
 // mulpicação 
 let produto = 10* 5
