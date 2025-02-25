@@ -1,5 +1,5 @@
 // // tres tipos de variaves no js 
-
+// tipagem fraca e dinamica ou seja podendo declarar um numero e um texto 
 
 // var nomeDaVarivael = 'js'
 
