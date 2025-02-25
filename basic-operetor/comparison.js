@@ -1,6 +1,6 @@
-e &&
-ou ||
-nao !
+// e &&
+// ou ||
+// nao !
 // // operador de comparação 
 
 // // igualdade 
