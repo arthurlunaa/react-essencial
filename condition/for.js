@@ -1,4 +1,4 @@
-for (let i = 0; i <= 5; i++){
-     console.log('teste' ,i)
-}
+for (let i = 40; i <= 0; i--){
+    console.log(`${i}: é par  `)
+     } 
     
